@@ -1,0 +1,29 @@
+
+.card{
+    transition: 0.3s;
+
+}
+
+.card:hover{
+    transform: scale(1.09);
+}
+.cc{
+    color: rgb(15, 64, 155);
+    letter-spacing: 5px;
+    font-weight: bold;
+    padding-top: 10px;
+    font-size: 35px;
+    font-family: Georgia, serif;
+   
+    
+}
+.ok{
+    margin:10px ;
+    text-align: center;
+    text-indent: 50px;
+    font-family: cursive;
+    font-size: 150%;
+    color: white;
+    
+    
+  }
